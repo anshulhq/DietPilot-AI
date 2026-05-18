@@ -1,14 +1,15 @@
 <div align="center">
   <img src="./assets/dietpilot_logo_banner.png" alt="DietPilot AI Banner" width="350"/>
-</div>
 
 <br/>
 
-# Smart Nutrition & Recipe Companion
+<h3>Smart Nutrition & Recipe Companion</h3>
 
-An end-to-end web application that combines Retrieval-Augmented Generation (RAG), personalized health tracking, and a modern full-stack architecture to deliver tailored meal recommendations.
+An end-to-end web application that combines Retrieval-Augmented Generation (RAG), semantic vector indexing and AI-powered embeddings to facilitate personalized health tracking, and a modern full-stack architecture to deliver tailored meal recommendations.
 
 [Getting Started](#getting-started-local-demo) · [Features](#feature-breakdown) · [Screenshots](#screenshots) · [Tech Stack](#tech-stack) · [Architecture](#system-architecture) · [Roadmap](#roadmap)
+
+<br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,6 +20,7 @@ An end-to-end web application that combines Retrieval-Augmented Generation (RAG)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+</div>
 
 https://github.com/user-attachments/assets/82795fca-0441-4a11-8b74-cb2c693b4791
 
