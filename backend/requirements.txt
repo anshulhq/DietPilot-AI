@@ -1,0 +1,19 @@
+# AI / Embeddings / LLM
+sentence-transformers
+langchain-groq
+groq
+pinecone
+
+# Backend / API
+fastapi
+uvicorn
+python-dotenv
+pydantic[email]
+
+# DB & ORM
+SQLAlchemy
+
+# Data & utilities
+numpy
+pandas
+tqdm
