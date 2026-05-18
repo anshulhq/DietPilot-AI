@@ -43,7 +43,10 @@ The project demonstrates several core capabilities:
 
 ### 1. Clone the Repository
 
-Clone this repository to your local machine.
+```bash
+git clone https://github.com/anshulhq/DietPilot-AI.git
+cd DietPilot-AI
+```
 
 ### 2. Download the Recipe Dataset
 
