@@ -24,6 +24,8 @@ An end-to-end web application that combines Retrieval-Augmented Generation (RAG)
 
 https://github.com/user-attachments/assets/82795fca-0441-4a11-8b74-cb2c693b4791
 
+> Walkthrough demo video showcasing RAG pipeline, vector index and semantic search
+
 ---
 
 ## What is DietPilot AI?
@@ -55,6 +57,8 @@ Grab the [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shu
 ### 3. Backend Setup
 
 ```bash
+cd backend
+
 # Create and activate a virtual environment
 python3 -m venv venv
 source venv/bin/activate
@@ -75,6 +79,8 @@ uvicorn app.main:app --reload
 ### 4. Frontend Setup
 
 ```bash
+cd frontend
+
 # Install Node dependencies
 npm install
 ```
@@ -162,7 +168,7 @@ Log any recipe as a meal straight from its detail page. Nutritional data is auto
 ## System Architecture
 
 <div align="center">
-  <img src="./assets/dietpilot_system_architecture.webp" alt="DietPilot AI System Architecture" width="700"/>
+  <img src="./assets/dietpilot_system_architecture.webp" alt="DietPilot AI System Architecture" width="500"/>
 </div>
 
 The application follows a loosely coupled, services-oriented design:
