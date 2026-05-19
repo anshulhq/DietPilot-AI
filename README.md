@@ -20,9 +20,10 @@ An end-to-end web application that combines Retrieval-Augmented Generation (RAG)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 </div>
 
-https://github.com/user-attachments/assets/82795fca-0441-4a11-8b74-cb2c693b4791
+https://github.com/user-attachments/assets/c7ace37d-013d-4ebc-800a-52dffbdf0963
 
 > Walkthrough demo video showcasing RAG pipeline, vector index and semantic search
 
